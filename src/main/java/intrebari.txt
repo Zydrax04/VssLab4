@@ -1,0 +1,42 @@
+Care dintre urm este o masina?
+1. Madrea
+2. Manda
+2. Volkswagen
+Masini
+##
+Ce este un injector?
+1. Instrument muzcial
+2. ce se aude langa Madrea
+2. Componenta masina
+Mecanica
+##
+Ce este un apa?
+1. lichid
+2. substanta
+1. varianta 1
+chimie
+##
+Care este un nr roman?
+1. X
+2. 10
+1. var 1
+cultura
+##
+Ce este un carburator?
+1. unealta
+2. componenta auto
+2. Componenta masina
+mecatronica
+##
+Ce dintre urm. e o trupa?
+1. FFDP
+2. UBB babes
+1. FFDP
+muzica
+##
+Ce e biblia?
+1. o slujba
+2. o carte
+2. carte
+religie
+##
